@@ -1,0 +1,19 @@
+{
+  "name": "otmsuite-syntax-light",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Tema claro para a linguagem da OTMSuíte",
+  "keywords": [
+    "syntax",
+    "theme",
+    "OTMSuíte",
+    "OTM",
+    "Suíte",
+    "Light"
+  ],
+  "repository": "https://github.com/otmsuite/otmsuite-syntax-light",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
