@@ -6,12 +6,12 @@
   "keywords": [
     "syntax",
     "theme",
-    "OTMSuíte",
+    "OTMSuite",
     "OTM",
-    "Suíte",
+    "Suite",
     "Light"
   ],
-  "repository": "https://github.com/otmsuite/otmsuite-syntax-light",
+  "repository": "https://github.com/otm-stev/otmsuite-syntax-light",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
